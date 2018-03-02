@@ -1,2 +1,3 @@
 # Random_stuff
-Here are some random experiments on data science
+
+* [Visualization]() of Gradient descent for a 1D linear regression problem.
